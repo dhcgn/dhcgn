@@ -4,7 +4,7 @@
 - 🌱 I’m currently working with Go, C# and a lot of other tech
 - 📫 How to reach me: https://threema.id/BADRYXZZ
 - 💾 Large files: `curl https://github.com/dhcgn.keys | %{$_.Content} | age -a -R - "C:\plain.txt" > "C:\encrypted.age"` and https://wormhole.app/
-- ✍️ Github releases are signed with RWS6WvbGy1Vj62jz6zVQfFIy+gcXJVK1nyGOZxpOLOIQmhTziYNk9B/g (minisign)
+- ✍️ Github releases are signed with `RWS6WvbGy1Vj62jz6zVQfFIy+gcXJVK1nyGOZxpOLOIQmhTziYNk9B/g` (minisign)
 
 
 #### Proof signature
