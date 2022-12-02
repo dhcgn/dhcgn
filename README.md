@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [caddy-server](https://github.com/caddyserver/caddy) [hpke](https://github.com/cfrg/draft-irtf-cfrg-hpke) encryption extension
 - 🌱 I’m currently working with Go, C# and a lot of other tech
 - 📫 How to reach me: https://threema.id/BADRYXZZ
 - 💾 Send me files: `age -r age1pn8ewlyj8wsvq92668arf9ln0egsygraksp79f4ga062w97w2ves7w255y -o .\content.txt.age .\content.txt` and https://wormhole.app/
